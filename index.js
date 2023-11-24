@@ -3,4 +3,4 @@ setTimeout(() => {
         FB.CustomerChat.showDialog()
         console.log('hihi')
     })
-}, 1000)
+}, 3000)
